@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 0f7bfdcc5fee42447bf6bcd64b1acbe4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6729281762250510105
+    second: mathgamebuttons 2_0
+  - first:
+      213: 1682137769380822060
+    second: mathgamebuttons 2_1
+  - first:
+      213: 1289719392823872862
+    second: mathgamebuttons 2_2
+  - first:
+      213: 8489710354176622467
+    second: mathgamebuttons 2_3
+  - first:
+      213: 4109355708342406950
+    second: mathgamebuttons 2_4
+  - first:
+      213: -8706111785215144016
+    second: mathgamebuttons 2_5
+  - first:
+      213: -6687245295560829579
+    second: mathgamebuttons 2_6
+  - first:
+      213: -924852334994076562
+    second: mathgamebuttons 2_7
+  - first:
+      213: 6390161211424533898
+    second: mathgamebuttons 2_8
+  - first:
+      213: 2989613416676481996
+    second: mathgamebuttons 2_9
+  - first:
+      213: 4549700817032019894
+    second: mathgamebuttons 2_10
+  - first:
+      213: 2484384584286363124
+    second: mathgamebuttons 2_11
+  - first:
+      213: -4014914608887394295
+    second: mathgamebuttons 2_12
+  - first:
+      213: -5175727713920447566
+    second: mathgamebuttons 2_13
+  - first:
+      213: -7119218313253546678
+    second: mathgamebuttons 2_14
+  - first:
+      213: -4523355920093137603
+    second: mathgamebuttons 2_15
+  - first:
+      213: -6538617760070096619
+    second: mathgamebuttons 2_16
+  - first:
+      213: -1507619611030283558
+    second: mathgamebuttons 2_17
+  - first:
+      213: 553356813024516014
+    second: mathgamebuttons 2_18
+  - first:
+      213: -3591197660155112361
+    second: mathgamebuttons 2_19
+  - first:
+      213: 1629489474677493080
+    second: mathgamebuttons 2_20
+  - first:
+      213: 6789738670668018677
+    second: mathgamebuttons 2_21
+  - first:
+      213: -4157313149141188970
+    second: mathgamebuttons 2_22
+  - first:
+      213: -210436711507727889
+    second: mathgamebuttons 2_23
+  - first:
+      213: -1141896296059623223
+    second: mathgamebuttons 2_24
+  - first:
+      213: -5130185031979443368
+    second: mathgamebuttons 2_25
+  - first:
+      213: -8350765375947835861
+    second: mathgamebuttons 2_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mathgamebuttons 2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03b87f3e9cc92a0800000000000000
+      internalID: -6729281762250510105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c363f8367285710800000000000000
+      internalID: 1682137769380822060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d033d54f006e110800000000000000
+      internalID: 1289719392823872862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_3
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f37a2369281d570800000000000000
+      internalID: 8489710354176622467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_4
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f09739e3d570930800000000000000
+      internalID: 4109355708342406950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_5
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfc863557dad2780800000000000000
+      internalID: -8706111785215144016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_6
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d13095d12233a0800000000000000
+      internalID: -6687245295560829579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_7
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 573
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cccfe83b34a23f0800000000000000
+      internalID: -924852334994076562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_8
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 573
+        width: 246
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6078e3c96ea850800000000000000
+      internalID: 6390161211424533898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb5eb4109d3d7920800000000000000
+      internalID: 2989613416676481996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7f79a9c8c32f30800000000000000
+      internalID: 4549700817032019894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd58d7dd9e4a7220800000000000000
+      internalID: 2484384584286363124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9009db56f682848c0800000000000000
+      internalID: -4014914608887394295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_13
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb80adf01f1c28b0800000000000000
+      internalID: -5175727713920447566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a451110d9a4733d90800000000000000
+      internalID: -7119218313253546678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_15
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d353036a1cfc931c0800000000000000
+      internalID: -4523355920093137603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_16
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 312
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51926f05ac92245a0800000000000000
+      internalID: -6538617760070096619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_17
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 312
+        width: 241
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada902493fbd31be0800000000000000
+      internalID: -1507619611030283558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75e52f61beda700800000000000000
+      internalID: 553356813024516014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549d3c41c0892ec0800000000000000
+      internalID: -3591197660155112361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dc3673b0c1d9610800000000000000
+      internalID: 1629489474677493080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_21
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f376eee85ff93e50800000000000000
+      internalID: 6789738670668018677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_22
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef06d97b14e46c0800000000000000
+      internalID: -4157313149141188970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_23
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe961e20de0641df0800000000000000
+      internalID: -210436711507727889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_24
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c828076e5b2720f0800000000000000
+      internalID: -1141896296059623223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_25
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 55
+        width: 248
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd6d0f4ebedc8b0800000000000000
+      internalID: -5130185031979443368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamebuttons 2_26
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 55
+        width: 246
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b267ff3822f1c1c80800000000000000
+      internalID: -8350765375947835861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mathgamebuttons 2_0: -6729281762250510105
+      mathgamebuttons 2_1: 1682137769380822060
+      mathgamebuttons 2_10: 4549700817032019894
+      mathgamebuttons 2_11: 2484384584286363124
+      mathgamebuttons 2_12: -4014914608887394295
+      mathgamebuttons 2_13: -5175727713920447566
+      mathgamebuttons 2_14: -7119218313253546678
+      mathgamebuttons 2_15: -4523355920093137603
+      mathgamebuttons 2_16: -6538617760070096619
+      mathgamebuttons 2_17: -1507619611030283558
+      mathgamebuttons 2_18: 553356813024516014
+      mathgamebuttons 2_19: -3591197660155112361
+      mathgamebuttons 2_2: 1289719392823872862
+      mathgamebuttons 2_20: 1629489474677493080
+      mathgamebuttons 2_21: 6789738670668018677
+      mathgamebuttons 2_22: -4157313149141188970
+      mathgamebuttons 2_23: -210436711507727889
+      mathgamebuttons 2_24: -1141896296059623223
+      mathgamebuttons 2_25: -5130185031979443368
+      mathgamebuttons 2_26: -8350765375947835861
+      mathgamebuttons 2_3: 8489710354176622467
+      mathgamebuttons 2_4: 4109355708342406950
+      mathgamebuttons 2_5: -8706111785215144016
+      mathgamebuttons 2_6: -6687245295560829579
+      mathgamebuttons 2_7: -924852334994076562
+      mathgamebuttons 2_8: 6390161211424533898
+      mathgamebuttons 2_9: 2989613416676481996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: 8ca7e7baf8dbf1c458753d16f0847b56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1413762445100816345
+    second: mathgamenumbas 1_0
+  - first:
+      213: 1712369164095773157
+    second: mathgamenumbas 1_1
+  - first:
+      213: 2073912914207430752
+    second: mathgamenumbas 1_2
+  - first:
+      213: -1827000607201935970
+    second: mathgamenumbas 1_3
+  - first:
+      213: 7014212584862104143
+    second: mathgamenumbas 1_4
+  - first:
+      213: -6233268474077064163
+    second: mathgamenumbas 1_5
+  - first:
+      213: 5830076571601053824
+    second: mathgamenumbas 1_6
+  - first:
+      213: 1865190382276584037
+    second: mathgamenumbas 1_7
+  - first:
+      213: 4327421038128694558
+    second: mathgamenumbas 1_8
+  - first:
+      213: -6112093280678912869
+    second: mathgamenumbas 1_9
+  - first:
+      213: -7778122856195967500
+    second: mathgamenumbas 1_10
+  - first:
+      213: 2716575936912908911
+    second: mathgamenumbas 1_11
+  - first:
+      213: 4471780125026148123
+    second: mathgamenumbas 1_12
+  - first:
+      213: 2784550405221119671
+    second: mathgamenumbas 1_13
+  - first:
+      213: 4989377268535916258
+    second: mathgamenumbas 1_14
+  - first:
+      213: -6266277889768311455
+    second: mathgamenumbas 1_15
+  - first:
+      213: -1905685965289119955
+    second: mathgamenumbas 1_16
+  - first:
+      213: -7296498618855526465
+    second: mathgamenumbas 1_17
+  - first:
+      213: -8889033373188730752
+    second: mathgamenumbas 1_18
+  - first:
+      213: -8962651417426801356
+    second: mathgamenumbas 1_19
+  - first:
+      213: 4124211228780687803
+    second: mathgamenumbas 1_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mathgamenumbas 1_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 616
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d795011471be9310800000000000000
+      internalID: 1413762445100816345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 614
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d246aeae83c710800000000000000
+      internalID: 1712369164095773157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 614
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068dd62bec408cc10800000000000000
+      internalID: 2073912914207430752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 633
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3e4ba0a035a6e0800000000000000
+      internalID: -1827000607201935970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_4
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 608
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ab7cbde2d775160800000000000000
+      internalID: 7014212584862104143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_5
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 617
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14defc195bfe79a0800000000000000
+      internalID: -6233268474077064163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 622
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ab97b0c798e050800000000000000
+      internalID: 5830076571601053824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 352
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562221e35cc72e910800000000000000
+      internalID: 1865190382276584037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 358
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15863ba1861e0c30800000000000000
+      internalID: 4327421038128694558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_9
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 357
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd4136b8b7d2ba0800000000000000
+      internalID: -6112093280678912869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_10
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 356
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b719f87e8e0490800000000000000
+      internalID: -7778122856195967500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_11
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 356
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62611deb6733b520800000000000000
+      internalID: 2716575936912908911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_12
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 353
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd5d9c454fe0e30800000000000000
+      internalID: 4471780125026148123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 101
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165b97c9575b909a0800000000000000
+      internalID: -6266277889768311455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_16
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 98
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f9e7916b4ad85e0800000000000000
+      internalID: -1905685965289119955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_17
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 100
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfecf62a21adba90800000000000000
+      internalID: -7296498618855526465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 101
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0805e724e3fc3a480800000000000000
+      internalID: -8889033373188730752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_19
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 97
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dcf92a5044e9380800000000000000
+      internalID: -8962651417426801356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mathgamenumbas 1_20
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 92
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb17626f2442c3930800000000000000
+      internalID: 4124211228780687803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2f10c8c6ad6cefb47bce4ac5b2810a28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mathgamenumbas 1_0: 1413762445100816345
+      mathgamenumbas 1_1: 1712369164095773157
+      mathgamenumbas 1_10: -7778122856195967500
+      mathgamenumbas 1_11: 2716575936912908911
+      mathgamenumbas 1_12: 4471780125026148123
+      mathgamenumbas 1_13: 2784550405221119671
+      mathgamenumbas 1_14: 4989377268535916258
+      mathgamenumbas 1_15: -6266277889768311455
+      mathgamenumbas 1_16: -1905685965289119955
+      mathgamenumbas 1_17: -7296498618855526465
+      mathgamenumbas 1_18: -8889033373188730752
+      mathgamenumbas 1_19: -8962651417426801356
+      mathgamenumbas 1_2: 2073912914207430752
+      mathgamenumbas 1_20: 4124211228780687803
+      mathgamenumbas 1_3: -1827000607201935970
+      mathgamenumbas 1_4: 7014212584862104143
+      mathgamenumbas 1_5: -6233268474077064163
+      mathgamenumbas 1_6: 5830076571601053824
+      mathgamenumbas 1_7: 1865190382276584037
+      mathgamenumbas 1_8: 4327421038128694558
+      mathgamenumbas 1_9: -6112093280678912869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
