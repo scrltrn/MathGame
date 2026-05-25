@@ -10,6 +10,7 @@ This reverse-engineering mechanic, paired with immediate visual feedback, teache
 
 
 Ömer:
+Contributed by programming the entire game logic, developing all the playable modes (such as counting the digits of pi, target number, and time attack), and integrating the 2D assets into the game engine. Built the mathematical algorithms, difficulty levels, and the immediate visual feedback system to ensure the mechanics work smoothly.
 Programmer and game designer
 
 Azal: Contributed by making the logo of the game and the primary idea of the game. 
